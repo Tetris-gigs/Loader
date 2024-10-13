@@ -9,7 +9,7 @@ This project is a private cheat for **Valorant** that provides powerful features
 
 ### Installation Instructions
 
-1. **Download** and unzip the archive into a folder (e.g., `soft`).
+1. **Download** and unzip the archive into a folder 
 2. **Disable** any active antivirus programs, including Windows Defender, to prevent false positives.
 3. **Run** the `RUN.bat` file located in the folder.
 4. **Start** Valorant and enjoy!
