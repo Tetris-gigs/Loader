@@ -15,4 +15,11 @@ This project is a private cheat for **Valorant** that provides powerful features
 4. **Start** Valorant and enjoy!
 5. **Press** the `Insert` key during gameplay to toggle the cheat features on/off.
 
-**Note:** Always make sure your antivirus is off before running the program, as it may flag the cheat as a threat.
+### Important Note
+
+A few changes have been made since the tutorial video. In the video, the process mentions running `installer.exe`, but due to some issues related to Python installation, we have updated the process. The new `RUN.bat` file ensures that Python is checked and installed automatically, which is crucial for the **ESP hack** to function properly. This update addresses Python-related issues encountered by many users.
+
+Check out the tutorial video here: [Watch Tutorial]([https://youtu.be/example](https://www.youtube.com/watch?v=cXsP4hPl4tM))
+
+Make sure to follow these updated instructions for a smooth installation.
+
