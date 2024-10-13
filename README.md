@@ -19,7 +19,7 @@ This project is a private cheat for **Valorant** that provides powerful features
 
 A few changes have been made since the tutorial video. In the video, the process mentions running `installer.exe`, but due to some issues related to Python installation, we have updated the process. The new `RUN.bat` file ensures that Python is checked and installed automatically, which is crucial for the **ESP hack** to function properly. This update addresses Python-related issues encountered by many users.
 
-Check out the tutorial video here: `https://youtu.be/example](https://www.youtube.com/watch?v=cXsP4hPl4tM`
+Check out the tutorial video here: [Watch Tutorial](https://www.youtube.com/watch?v=cXsP4hPl4tM)
 
 Make sure to follow these updated instructions for a smooth installation.
 
